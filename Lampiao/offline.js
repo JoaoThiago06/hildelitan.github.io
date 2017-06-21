@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1497293729,
+	"version": 1498048205,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -18,7 +18,6 @@
 		"images/caixatextowelcome-sheet0.png",
 		"images/fechar-sheet0.png",
 		"images/telavencer-sheet0.png",
-		"images/telafim-sheet0.png",
 		"images/personagemlampiao1-sheet0.png",
 		"images/personagemlampiao1-sheet1.png",
 		"images/colisor-sheet0.png",
@@ -38,7 +37,9 @@
 		"images/inimigo1-sheet0.png",
 		"images/inimigo1-sheet1.png",
 		"images/colisor2-sheet0.png",
-		"images/blocoinimigo1-sheet0.png",
+		"images/tiledbackground2.png",
+		"images/sprite-sheet0.png",
+		"images/colisor1-sheet0.png",
 		"media/mouseclick1.m4a",
 		"media/mouseclick1.ogg",
 		"media/344310__musiclegends__laser-shoot.m4a",
