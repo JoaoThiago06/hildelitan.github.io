@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1498048205
+#1498523215
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -32,17 +32,25 @@ images/ceu2-sheet0.png
 images/coin_gold-sheet0.png
 images/chao3-sheet0.png
 images/blocolampiao3-sheet0.png
-images/personagemlampiao3-sheet0.png
 images/inimigo1-sheet0.png
 images/inimigo1-sheet1.png
 images/colisor2-sheet0.png
 images/tiledbackground2.png
-images/sprite-sheet0.png
+images/telagameover-sheet0.png
 images/colisor1-sheet0.png
+images/mariabonita-sheet0.png
+images/jaula-sheet0.png
+images/casal-sheet0.png
+images/heart-sheet0.png
+images/sensorchao-sheet0.png
+images/gado-sheet0.png
 media/mouseclick1.m4a
 media/mouseclick1.ogg
 media/344310__musiclegends__laser-shoot.m4a
 media/344310__musiclegends__laser-shoot.ogg
+media/jump.m4a
+media/jump.ogg
+media/som%20de%20moeda%20do%20sonic%20mp3%20(online-audio-converter.com).ogg
 media/335361__cabled-mess__little-happy-tune-22-10.m4a
 media/335361__cabled-mess__little-happy-tune-22-10.ogg
 media/328861__inspectorj__fireworks-standard-and-whistle-a.m4a
