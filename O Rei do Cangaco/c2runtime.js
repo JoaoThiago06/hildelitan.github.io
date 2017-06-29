@@ -22897,6 +22897,45 @@ cr.behaviors.bound = function(runtime)
 }());
 ;
 ;
+cr.behaviors.destroy = function(runtime)
+{
+	this.runtime = runtime;
+};
+(function ()
+{
+	var behaviorProto = cr.behaviors.destroy.prototype;
+	behaviorProto.Type = function(behavior, objtype)
+	{
+		this.behavior = behavior;
+		this.objtype = objtype;
+		this.runtime = behavior.runtime;
+	};
+	var behtypeProto = behaviorProto.Type.prototype;
+	behtypeProto.onCreate = function()
+	{
+	};
+	behaviorProto.Instance = function(type, inst)
+	{
+		this.type = type;
+		this.behavior = type.behavior;
+		this.inst = inst;				// associated object instance to modify
+		this.runtime = type.runtime;
+	};
+	var behinstProto = behaviorProto.Instance.prototype;
+	behinstProto.onCreate = function()
+	{
+	};
+	behinstProto.tick = function ()
+	{
+		this.inst.update_bbox();
+		var bbox = this.inst.bbox;
+		var layout = this.inst.layer.layout;
+		if (bbox.right < 0 || bbox.bottom < 0 || bbox.left > layout.width || bbox.top > layout.height)
+			this.runtime.DestroyInstance(this.inst);
+	};
+}());
+;
+;
 cr.behaviors.jumpthru = function(runtime)
 {
 	this.runtime = runtime;
@@ -23114,6 +23153,7 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Sin,
 	cr.behaviors.solid,
 	cr.behaviors.Bullet,
+	cr.behaviors.destroy,
 	cr.behaviors.Fade,
 	cr.behaviors.Flash,
 	cr.behaviors.Pin,
@@ -23140,6 +23180,8 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.acts.SetMirrored,
 	cr.behaviors.Flash.prototype.acts.Flash,
 	cr.plugins_.Audio.prototype.acts.Stop,
+	cr.system_object.prototype.acts.ResetGlobals,
+	cr.system_object.prototype.acts.RestartLayout,
 	cr.system_object.prototype.cnds.EveryTick,
 	cr.plugins_.Text.prototype.acts.SetText,
 	cr.behaviors.Platform.prototype.acts.SimulateControl,
@@ -23150,16 +23192,17 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Platform.prototype.cnds.OnLand,
 	cr.plugins_.Sprite.prototype.acts.SetInstanceVar,
 	cr.system_object.prototype.cnds.OnLayoutEnd,
+	cr.behaviors.Bullet.prototype.cnds.CompareTravelled,
 	cr.plugins_.Sprite.prototype.acts.StartAnim,
 	cr.plugins_.Mouse.prototype.cnds.OnObjectClicked,
+	cr.plugins_.Sprite.prototype.acts.SetVisible,
 	cr.plugins_.Mouse.prototype.cnds.IsOverObject,
 	cr.plugins_.Sprite.prototype.acts.SetScale,
 	cr.system_object.prototype.cnds.Else,
-	cr.plugins_.Sprite.prototype.acts.SetVisible,
 	cr.system_object.prototype.acts.Wait,
 	cr.system_object.prototype.acts.AddVar,
 	cr.behaviors.Platform.prototype.cnds.OnMove,
-	cr.plugins_.Sprite.prototype.cnds.IsBetweenAngles,
+	cr.behaviors.Platform.prototype.cnds.IsOnFloor,
 	cr.behaviors.Platform.prototype.cnds.IsFalling,
 	cr.plugins_.Sprite.prototype.cnds.CompareY,
 	cr.plugins_.Sprite.prototype.exps.Y,
