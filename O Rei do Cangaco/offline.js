@@ -1,9 +1,5 @@
 ﻿{
-<<<<<<< HEAD:O Rei do Cangaco/offline.js
-	"version": 1499179734,
-=======
-	"version": 1498764850,
->>>>>>> f8c6ed7b8d0eaa612df0af0ab0bf435c0bcb04ff:O Rei do Cangaco/offline.js
+	"version": 1500379282,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -53,11 +49,8 @@
 		"images/sprite-sheet0.png",
 		"images/sprite2-sheet0.png",
 		"images/caixahelp-sheet0.png",
-<<<<<<< HEAD:O Rei do Cangaco/offline.js
 		"images/sprite4-sheet0.png",
 		"images/sprite5-sheet0.png",
-=======
->>>>>>> f8c6ed7b8d0eaa612df0af0ab0bf435c0bcb04ff:O Rei do Cangaco/offline.js
 		"media/mouseclick1.m4a",
 		"media/mouseclick1.ogg",
 		"media/344310__musiclegends__laser-shoot.m4a",

@@ -23191,23 +23191,15 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Platform.prototype.cnds.OnJump,
 	cr.behaviors.Platform.prototype.cnds.OnLand,
 	cr.plugins_.Sprite.prototype.acts.SetInstanceVar,
-<<<<<<< HEAD
 	cr.behaviors.Bullet.prototype.cnds.CompareTravelled,
 	cr.system_object.prototype.cnds.OnLayoutEnd,
-=======
-	cr.system_object.prototype.cnds.OnLayoutEnd,
-	cr.behaviors.Bullet.prototype.cnds.CompareTravelled,
->>>>>>> f8c6ed7b8d0eaa612df0af0ab0bf435c0bcb04ff
 	cr.plugins_.Sprite.prototype.acts.StartAnim,
 	cr.plugins_.Mouse.prototype.cnds.OnObjectClicked,
 	cr.plugins_.Sprite.prototype.acts.SetVisible,
 	cr.plugins_.Mouse.prototype.cnds.IsOverObject,
 	cr.plugins_.Sprite.prototype.acts.SetScale,
 	cr.system_object.prototype.cnds.Else,
-<<<<<<< HEAD
 	cr.plugins_.Audio.prototype.acts.StopAll,
-=======
->>>>>>> f8c6ed7b8d0eaa612df0af0ab0bf435c0bcb04ff
 	cr.system_object.prototype.acts.Wait,
 	cr.system_object.prototype.acts.AddVar,
 	cr.behaviors.Platform.prototype.cnds.OnMove,
@@ -23215,11 +23207,7 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Platform.prototype.cnds.IsFalling,
 	cr.plugins_.Sprite.prototype.cnds.CompareY,
 	cr.plugins_.Sprite.prototype.exps.Y,
-<<<<<<< HEAD
 	cr.behaviors.Platform.prototype.acts.SetVectorY,
 	cr.plugins_.Sprite.prototype.acts.SetOpacity
-=======
-	cr.behaviors.Platform.prototype.acts.SetVectorY
->>>>>>> f8c6ed7b8d0eaa612df0af0ab0bf435c0bcb04ff
 ];};
 
