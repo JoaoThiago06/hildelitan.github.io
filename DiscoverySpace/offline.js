@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1501595456,
+	"version": 1501852896,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -33,6 +33,13 @@
 		"images/sprite3-sheet0.png",
 		"images/sprite4-sheet0.png",
 		"images/tiledbackground.png",
+		"images/txt.png",
+		"images/particles.png",
+		"images/logoadelirogames-sheet0.png",
+		"images/sprite6-sheet0.png",
+		"images/sprite7-sheet0.png",
+		"images/sprite8-sheet0.png",
+		"images/sprite9-sheet0.png",
 		"media/fundo 2.m4a",
 		"media/fundo 2.ogg",
 		"media/fundo 4.m4a",
