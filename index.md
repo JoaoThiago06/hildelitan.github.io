@@ -12,8 +12,7 @@ layout: default
 
 _Aluna do Curso Integrado de Jogos Digitais, do IFRN Campus Ceará-mirim, aprendendo a fazer um portfólio com o prof. Marcelo Barros_.
 
-
-![]()
+![](fotopessoal.JPG)
 
 * * *
 
