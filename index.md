@@ -48,13 +48,4 @@ _Atualmente assistindo aulas em disciplinas voltadas para o desenvolvimento de J
 
 * * *
 
-** negrito  
-_ itálico  
-~~ riscado  
-3* linha horizontal (barra)
 
-hashtahs uma ou mais hashtags criam capítulos ou subcapítulos  
-asteriscos criam listas não ordenadas  
-1,2,3 criam listas ordenadas  
-
-* * *
