@@ -20,12 +20,18 @@ _Aluna do Curso Integrado Jogos Digitais, do IFRN Campus Ceará-mirim, aprendend
 [TEXTO QUE VAI APARECER](LINK)
 
 ## Artes
-* Proj. Jogos
-* Proj. Música
-* Proj. Assets
+
+
+![ZELDA](http://pixelartmaker.com/art/f517e09af9b5f97.png)
+![SUPERMÁRIO](http://pixelartmaker.com/art/2d5a24a09deadd2.png)
+![PIZZA](http://piq.codeus.net/static/media/userpics/piq_248646_400x400.png)
+
 
 ## Projetos
 
+* Proj. Jogos
+* Proj. Música
+* Proj. Assets
 
 ### Aulas
 
