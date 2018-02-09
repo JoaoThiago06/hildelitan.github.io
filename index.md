@@ -51,7 +51,7 @@ _Música_
 
 * * *
 
-### Grade curricular
+# Grade curricular
 
 _Atualmente assistindo aulas em disciplinas voltadas para o desenvolvimento de Jogos Digitais no IFRN Campus Ceará-mirim_. 
 
