@@ -4,20 +4,29 @@ layout: default
 
 # Bem-vindo à minha página
 
+### Momento reflexivo
+
+"_Estou me afastando de tudo que me atrasa, me engana, me segura e me retém. Estou me aproximando de tudo que me faz completo, me faz feliz e que me quer bem. - (Caio Fernando Abreu)_"
+
 # Quem sou eu?
 
-_Aluna do Curso Integrado Jogos Digitais, do IFRN Campus Ceará-mirim, aprendendo a fazer um portfólio com o prof. Marcelo_.
+_Aluna do Curso Integrado de Jogos Digitais, do IFRN Campus Ceará-mirim, aprendendo a fazer um portfólio com o prof. Marcelo Barros_.
 
 * * *
 
 # Quais meus passatempos favoritos?
 
-_
+_Netflix_  
+_Redes sociais_  
+_Festas_  
+_Praia_  
+_Música_  
 
+* * * 
 
 ## Em que Empresa atuo?
 
-[![](marcaempresa.png)
+![](marcaempresa.png)
 
 
 * * *
