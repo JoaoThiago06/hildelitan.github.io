@@ -23,10 +23,9 @@ _Aluna do Curso Integrado Jogos Digitais, do IFRN Campus Ceará-mirim, aprendend
 ## Artes
 
 
-![ZELDA](http://pixelartmaker.com/art/f517e09af9b5f97.png)
-![SUPERMÁRIO](http://pixelartmaker.com/art/2d5a24a09deadd2.png)
-![PIZZA](http://piq.codeus.net/static/media/userpics/piq_248646_400x400.png)
-![](homemaranha.png)
+![SUPERMARIO](http://pixelartmaker.com/art/7dd56f5049ccd8c.png)
+![ESTRELA](http://pixelartmaker.com/art/a32ef966fcf6f58.png)
+![DINOSSAURO](https://orig00.deviantart.net/612a/f/2012/220/c/5/yoshi_sprite_by_eri_tchi-d4lcsww.png)
 
 
 ## Projetos
