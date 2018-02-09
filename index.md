@@ -14,6 +14,9 @@ _Aluna do Curso Integrado de Jogos Digitais, do IFRN Campus Ceará-mirim, aprend
 
 * * *
 
+# Instituição de Ensino
+
+
 
 ## Em que Empresa atuo?
 
