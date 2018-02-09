@@ -14,7 +14,8 @@ _Aluna do Curso Integrado Jogos Digitais, do IFRN Campus Ceará-mirim, aprendend
 
 ## Games
 
-[Discovery Space](https://hildelitan.github.io/DiscoverySpace/)
+[![](discoveryspace.png)](https://hildelitan.github.io/DiscoverySpace/)
+
 
 
 [TEXTO QUE VAI APARECER](LINK)
@@ -26,7 +27,6 @@ _Aluna do Curso Integrado Jogos Digitais, do IFRN Campus Ceará-mirim, aprendend
 ![SUPERMÁRIO](http://pixelartmaker.com/art/2d5a24a09deadd2.png)
 ![PIZZA](http://piq.codeus.net/static/media/userpics/piq_248646_400x400.png)
 ![](homemaranha.png)
-
 
 
 ## Projetos
