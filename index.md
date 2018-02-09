@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Bem-vindo à minha página
+
 # Quem sou eu
 
 _Aluna do Curso Integrado Jogos Digitais, do IFRN Campus Ceará-mirim, aprendendo a fazer um portfólio com o prof. Marcelo_.
