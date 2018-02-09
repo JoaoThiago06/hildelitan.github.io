@@ -30,9 +30,7 @@ _Aluna do Curso Integrado Jogos Digitais, do IFRN Campus Ceará-mirim, aprendend
 ## Artes
 
 
-![SUPERMARIO](http://pixelartmaker.com/art/7dd56f5049ccd8c.png)
-![ESTRELA](http://pixelartmaker.com/art/a32ef966fcf6f58.png)
-![DINOSSAURO](https://orig00.deviantart.net/612a/f/2012/220/c/5/yoshi_sprite_by_eri_tchi-d4lcsww.png)
+![SUPERMARIO](http://www.imagenspng.com.br/wp-content/uploads/2015/02/super-mario-01.png)
 
 * * *
 
