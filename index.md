@@ -57,4 +57,8 @@ _Atualmente assistindo aulas em disciplinas voltadas para o desenvolvimento de J
 
 * * *
 
+# Redes Sociais 
 
+_Instagram:_  [hildelitanx](https://www.instagram.com/hildelitanx/)  
+_Tumblr:_  [in-inversos](http://in-inversos.tumblr.com/)  
+_Facebook:_  [Hildelitan Pereira](https://www.facebook.com/hildelitan)  
