@@ -4,23 +4,25 @@ layout: default
 
 # Bem-vindo à minha página
 
-# Quem sou eu
+# Quem sou eu?
 
 _Aluna do Curso Integrado Jogos Digitais, do IFRN Campus Ceará-mirim, aprendendo a fazer um portfólio com o prof. Marcelo_.
 
 * * *
 
-## Empresa em que atuo
+# Quais meus passatempos favoritos?
+
+_
+
+
+## Em que Empresa atuo?
 
 [![](marcaempresa.png)
-
-# Portfólio
-
 
 
 * * *
 
-## Games
+## Jogos desenvolvidos em minha Empresa
 
 [![](discoveryspace.png)](https://hildelitan.github.io/DiscoverySpace/)
 
@@ -40,7 +42,7 @@ _Aluna do Curso Integrado Jogos Digitais, do IFRN Campus Ceará-mirim, aprendend
 
 * * *
 
-### Aulas
+### Grade curricular
 
 _Atualmente assistindo aulas em disciplinas voltadas para o desenvolvimento de Jogos Digitais no IFRN Campus Ceará-mirim_. 
 
