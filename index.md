@@ -16,17 +16,13 @@ _Aluna do Curso Integrado Jogos Digitais, do IFRN Campus Ceará-mirim, aprendend
 
 # Portfólio
 
+
+
 * * *
 
 ## Games
 
 [![](discoveryspace.png)](https://hildelitan.github.io/DiscoverySpace/)
-
-
-
-[TEXTO QUE VAI APARECER](LINK)
-
-* * *
 
 
 ## Artes
