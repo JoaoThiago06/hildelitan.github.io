@@ -22,7 +22,7 @@ _
 
 * * *
 
-## Jogos desenvolvidos em minha Empresa
+## Jogos desenvolvidos na Empresa Adeliro Games
 
 [![](discoveryspace.png)](https://hildelitan.github.io/DiscoverySpace/)
 
