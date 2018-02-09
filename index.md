@@ -2,8 +2,6 @@
 layout: default
 ---
 
-_Criando_ _minha_ _página_ _principal_
-
 # Quem sou eu
 
 _Aluna do Curso Integrado Jogos Digitais, do IFRN Campus Ceará-mirim, aprendendo a fazer um portfólio com o prof. Marcelo_.
@@ -12,9 +10,11 @@ _Aluna do Curso Integrado Jogos Digitais, do IFRN Campus Ceará-mirim, aprendend
 
 ## Empresa em que atuo
 
-
+[![](marcaempresa.png)]
 
 # Portfólio
+
+* * *
 
 ## Games
 
@@ -24,6 +24,9 @@ _Aluna do Curso Integrado Jogos Digitais, do IFRN Campus Ceará-mirim, aprendend
 
 [TEXTO QUE VAI APARECER](LINK)
 
+* * *
+
+
 ## Artes
 
 
@@ -31,14 +34,19 @@ _Aluna do Curso Integrado Jogos Digitais, do IFRN Campus Ceará-mirim, aprendend
 ![ESTRELA](http://pixelartmaker.com/art/a32ef966fcf6f58.png)
 ![DINOSSAURO](https://orig00.deviantart.net/612a/f/2012/220/c/5/yoshi_sprite_by_eri_tchi-d4lcsww.png)
 
+* * *
 
 ## Projetos
 
-* Proj. Jogos
-* Proj. Música
-* Proj. Assets
+* _Proj. de Jogos_
+* _Proj. de Música_
+* _Proj. de Assets_
+
+* * *
 
 ### Aulas
+
+_No momento assistindo aulas em disciplinas voltadas para o desenvolvimento de Jogos Digitais no IFRN Campus Ceará-mirim_. 
 
 * * *
 
