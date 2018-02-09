@@ -14,6 +14,13 @@ _Aluna do Curso Integrado de Jogos Digitais, do IFRN Campus Ceará-mirim, aprend
 
 * * *
 
+
+## Em que Empresa atuo?
+
+![](marcaempresa.png)
+
+* * * 
+
 # Quais meus passatempos favoritos?
 
 _Netflix_  
@@ -23,13 +30,6 @@ _Praia_
 _Música_  
 
 * * * 
-
-## Em que Empresa atuo?
-
-![](marcaempresa.png)
-
-
-* * *
 
 ## Jogos desenvolvidos na Empresa Adeliro Games
 
