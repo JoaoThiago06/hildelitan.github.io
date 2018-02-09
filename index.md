@@ -52,9 +52,7 @@ _Música_
 
 ## Projetos
 
-* _Proj. de Jogos_
-* _Proj. de Música_
-* _Proj. de Assets_
+_No presente momento apenas desenvolvendo Jogos em cada bimestre para a matéria de "Oficina de Jogos" na Instituição IFRN Campus Ceará-mirim_.  
 
 * * *
 
