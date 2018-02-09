@@ -12,7 +12,7 @@ _Aluna do Curso Integrado Jogos Digitais, do IFRN Campus Ceará-mirim, aprendend
 
 ## Empresa em que atuo
 
-[![](marcaempresa.png)]
+[![](marcaempresa.png)
 
 # Portfólio
 
