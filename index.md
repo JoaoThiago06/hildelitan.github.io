@@ -30,11 +30,11 @@ _Aluna do Curso Integrado de Jogos Digitais, do IFRN Campus Ceará-mirim, aprend
 
 # Quais meus passatempos favoritos?
 
-_Netflix_  
-_Redes sociais_  
-_Festas_  
-_Praia_  
-_Música_  
+* _Netflix_  
+* _Redes sociais_  
+* _Festas_  
+* _Praia_  
+* _Música_  
 
 * * * 
 
@@ -64,7 +64,7 @@ _Atualmente assistindo aulas em disciplinas voltadas para o desenvolvimento de J
 
 # Redes Sociais 
 
-*_Instagram:  [hildelitanx](https://www.instagram.com/hildelitanx/)_    
-*_Tumblr:  [in-inversos](http://in-inversos.tumblr.com/)_    
-*_Facebook:  [Hildelitan Pereira](https://www.facebook.com/hildelitan)_    
-*_Currículo Lattes: [Hildelitan Pereira de Oliveira](http://lattes.cnpq.br/5361936635040520)_  
+* _Instagram:  [hildelitanx](https://www.instagram.com/hildelitanx/)_    
+* _Tumblr:  [in-inversos](http://in-inversos.tumblr.com/)_    
+* _Facebook:  [Hildelitan Pereira](https://www.facebook.com/hildelitan)_    
+* _Currículo Lattes: [Hildelitan Pereira de Oliveira](http://lattes.cnpq.br/5361936635040520)_  
