@@ -64,6 +64,7 @@ _Atualmente assistindo aulas em disciplinas voltadas para o desenvolvimento de J
 
 # Redes Sociais 
 
-_Instagram:_  [hildelitanx](https://www.instagram.com/hildelitanx/)  
-_Tumblr:_  [in-inversos](http://in-inversos.tumblr.com/)  
-_Facebook:_  [Hildelitan Pereira](https://www.facebook.com/hildelitan)  
+_Instagram:  [hildelitanx](https://www.instagram.com/hildelitanx/)_    
+_Tumblr:  [in-inversos](http://in-inversos.tumblr.com/)_    
+_Facebook:  [Hildelitan Pereira](https://www.facebook.com/hildelitan)_    
+_Currículo Lattes: [Hildelitan Pereira de Oliveira](http://lattes.cnpq.br/5361936635040520)_  
