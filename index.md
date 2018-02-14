@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](foto1.jpg)  ![](foto2.jpg)
+![](foto1.jpg)  
 
 ### Frase motivadora:
 
