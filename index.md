@@ -10,6 +10,8 @@ layout: default
 
 "_Estou me afastando de tudo que me atrasa, me engana, me segura e me retém. Estou me aproximando de tudo que me faz completo, me faz feliz e que me quer bem." - (Caio Fernando Abreu)_
 
+* * * 
+
 # Quem sou eu?
 
 _Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso Integrado de Jogos Digitais, do IFRN Campus Ceará-mirim._
