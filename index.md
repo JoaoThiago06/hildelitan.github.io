@@ -10,7 +10,7 @@ layout: default
 
 # Quem sou eu?
 
-_Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso Integrado de Jogos Digitais, do IFRN Campus Ceará-mirim.
+_Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso Integrado de Jogos Digitais, do IFRN Campus Ceará-mirim._
 
 ![](fotopessoal.jpg)
 
