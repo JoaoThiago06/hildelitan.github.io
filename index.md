@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![](fotopessoal.jpg)
+
 # Bem-vindo à minha página
 
 ### Frase motivadora:
@@ -11,8 +13,6 @@ layout: default
 # Quem sou eu?
 
 _Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso Integrado de Jogos Digitais, do IFRN Campus Ceará-mirim._
-
-![](fotopessoal.jpg)
 
 * * *
 
@@ -48,10 +48,9 @@ _Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso 
 
 [![](teethdefense.png)](https://alessandrats.github.io/TeethDefense/)
 
-## Artes
+## Algumas artes desenvolvidas na Empresa Adeliro Games
 
 
-![SUPERMARIO](http://www.imagenspng.com.br/wp-content/uploads/2015/02/super-mario-01.png)
 
 * * *
 
