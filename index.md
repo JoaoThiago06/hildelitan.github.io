@@ -40,10 +40,13 @@ _Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso 
 
 # Jogos desenvolvidos na Empresa Adeliro Games
 
-[![]
+[![](cangaco.png)]()
 
 [![](discoveryspace.png)](https://hildelitan.github.io/DiscoverySpace/)
 
+[![](cancuns.png)]()
+
+[![](teethdefense.png)]()
 
 ## Artes
 
