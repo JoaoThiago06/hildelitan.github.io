@@ -48,6 +48,8 @@ _Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso 
 
 [![](teethdefense.png)](https://alessandrats.github.io/TeethDefense/)
 
+* * * 
+
 # Algumas artes desenvolvidas na Empresa Adeliro Games
 
 ## O Rei do Cangaço
