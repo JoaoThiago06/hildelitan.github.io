@@ -42,7 +42,7 @@ _Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso 
 
 [![](cangaco.png)](https://alessandrats.github.io/O%20Rei%20do%20Cangaco/)
 
-[![](discoveryspace.png)](https://hildelitan.github.io/DiscoverySpace/)
+[![](discoveryspace.png)](https://alessandrats.github.io/DiscoverySpace/)
 
 [![](cancuns.png)](https://alessandrats.github.io/CancunsTemple/)
 
