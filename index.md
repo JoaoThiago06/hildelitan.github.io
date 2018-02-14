@@ -4,7 +4,7 @@ layout: default
 
 # Bem-vindo à minha página
 
-### Momento reflexivo
+### Frase motivadora:
 
 "_Estou me afastando de tudo que me atrasa, me engana, me segura e me retém. Estou me aproximando de tudo que me faz completo, me faz feliz e que me quer bem." - (Caio Fernando Abreu)_
 
@@ -38,7 +38,7 @@ _Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso 
 
 * * * 
 
-## Jogos desenvolvidos na Empresa Adeliro Games
+# Jogos desenvolvidos na Empresa Adeliro Games
 
 [![](discoveryspace.png)](https://hildelitan.github.io/DiscoverySpace/)
 
@@ -50,7 +50,7 @@ _Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso 
 
 * * *
 
-## Projetos
+# Projetos
 
 _No presente momento apenas desenvolvendo Jogos em cada bimestre para a matéria de "Oficina de Jogos" na Instituição IFRN Campus Ceará-mirim_.  
 
