@@ -50,7 +50,31 @@ _Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso 
 
 ## Algumas artes desenvolvidas na Empresa Adeliro Games
 
+![](casal.png)  
 
+![](astronauta.png)  
+
+![](et.png)  
+
+![](george.png)  
+
+![](torre.png)  
+
+![](morcego.png)  
+
+![](planta.png)  
+
+![](fauno.png)  
+
+![](dente.png)  
+
+![](chiclete.png)  
+
+![](carie.png)  
+
+![](bocasuja.png)  
+
+![](boca.png)  
 
 * * *
 
