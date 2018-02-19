@@ -56,33 +56,33 @@ _Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso 
 
 ## Discovery Space
 
-![](astronauta.png)  
+![](photo1.png)  
 
-![](et.png)  
+![](photo2.png)  
 
 ## Cancun's Temple
 
-![](george.png)  
+![](photo3.png)  
 
-![](torre.png)  
+![](photo4.png)  
 
-![](morcego.png)  
+![](photo5.png)  
 
-![](planta.png)  
+![](photo6.png)  
 
-![](fauno.png)  
+![](photo7.png)  
 
 ## Teeth Defense
 
-![](dente.png)  
+![](photo8.png)  
 
-![](chiclete.png)  
+![](photo9.png)  
 
-![](carie.png)  
+![](photo10.png)  
 
-![](bocasuja.png)  
+![](photo11.png)  
 
-![](boca.png)  
+![](photo12.png)  
 
 * * *
 
@@ -104,3 +104,4 @@ _Atualmente assistindo aulas em disciplinas voltadas para o desenvolvimento de J
 * _Tumblr:  [in-inversos](http://in-inversos.tumblr.com/)_    
 * _Facebook:  [Hildelitan Pereira](https://www.facebook.com/hildelitan)_    
 * _Currículo Lattes: [Hildelitan Pereira de Oliveira](http://lattes.cnpq.br/5361936635040520)_  
+* _E-mail: hildelitanpereira@outlook.com
