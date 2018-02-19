@@ -96,6 +96,11 @@ _Atualmente assistindo aulas em disciplinas voltadas para o desenvolvimento de J
 
 * * *
 
+# Trabalhos acadêmicos
+
+* _Remake da música Photograph: [Remake Photograph - Ed Sheeran](https://www.youtube.com/watch?v=gk6JF1bzlB8)_  
+* _Fotografias para a dança da música Where have you been: [Célula coreográfica](where have you been)_  
+
 # Redes Sociais 
 
 * _Instagram:  [hildelitanx](https://www.instagram.com/hildelitanx/)_    
