@@ -52,17 +52,15 @@ _Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso 
 
 ## O Rei do Cangaço
 
-![](casal.png)  
+![](photo1.png)  
 
 ## Discovery Space
 
-![](photo1.png)  
-
 ![](photo2.png)  
 
-## Cancun's Temple
-
 ![](photo3.png)  
+
+## Cancun's Temple
 
 ![](photo4.png)  
 
