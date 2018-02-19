@@ -38,13 +38,13 @@ _Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso 
 
 # Jogos desenvolvidos na Empresa Adeliro Games
 
-[![](jogo1.png)](https://alessandrats.github.io/O%20Rei%20do%20Cangaco/)
+# [![](jogo1.png)](https://alessandrats.github.io/O%20Rei%20do%20Cangaco/)
 
-[![](jogo2.png)](https://alessandrats.github.io/DiscoverySpace/)
+# [![](jogo2.png)](https://alessandrats.github.io/DiscoverySpace/)
 
-[![](jogo3.png)](https://alessandrats.github.io/CancunsTemple/)
+# [![](jogo3.png)](https://alessandrats.github.io/CancunsTemple/)
 
-[![](jogo4.png)](https://alessandrats.github.io/TeethDefense/)
+# [![](jogo4.png)](https://alessandrats.github.io/TeethDefense/)
 
 * * * 
 
@@ -52,35 +52,35 @@ _Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso 
 
 ## O Rei do Cangaço
 
-![](photo1.png)  
+# ![](photo1.png)  
 
 ## Discovery Space
 
-![](photo2.png)  
+# ![](photo2.png)  
 
-![](photo3.png)  
+# ![](photo3.png)  
 
 ## Cancun's Temple
 
-![](photo4.png)  
+# ![](photo4.png)  
 
-![](photo5.png)  
+# ![](photo5.png)  
 
-![](photo6.png)  
+# ![](photo6.png)  
 
-![](photo7.png)  
+# ![](photo7.png)  
 
 ## Teeth Defense
 
-![](photo8.png)  
+# ![](photo8.png)  
 
-![](photo9.png)  
+# ![](photo9.png)  
 
-![](photo10.png)  
+# ![](photo10.png)  
 
-![](photo11.png)  
+# ![](photo11.png)  
 
-![](photo12.png)  
+# ![](photo12.png)  
 
 * * *
 
