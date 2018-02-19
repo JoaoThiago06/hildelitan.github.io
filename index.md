@@ -4,8 +4,6 @@ layout: default
 
 ![](foto1.jpg)  
 
-### Frase motivadora:
-
 "_Estou me afastando de tudo que me atrasa, me engana, me segura e me retém. Estou me aproximando de tudo que me faz completo, me faz feliz e que me quer bem." - (Caio Fernando Abreu)_
 
 * * * 
@@ -40,13 +38,13 @@ _Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso 
 
 # Jogos desenvolvidos na Empresa Adeliro Games
 
-[![](cangaco.png)](https://alessandrats.github.io/O%20Rei%20do%20Cangaco/)
+[![](jogo1.png)](https://alessandrats.github.io/O%20Rei%20do%20Cangaco/)
 
-[![](discoveryspace.png)](https://alessandrats.github.io/DiscoverySpace/)
+[![](jogo2.png)](https://alessandrats.github.io/DiscoverySpace/)
 
-[![](cancuns.png)](https://alessandrats.github.io/CancunsTemple/)
+[![](jogo3.png)](https://alessandrats.github.io/CancunsTemple/)
 
-[![](teethdefense.png)](https://alessandrats.github.io/TeethDefense/)
+[![](jogo4.png)](https://alessandrats.github.io/TeethDefense/)
 
 * * * 
 
