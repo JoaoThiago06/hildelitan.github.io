@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](eu.png)  
+# ![](eu.png)  
 
 "_Estou me afastando de tudo que me atrasa, me engana, me segura e me retém. Estou me aproximando de tudo que me faz completo, me faz feliz e que me quer bem." - (Caio Fernando Abreu)_
 
