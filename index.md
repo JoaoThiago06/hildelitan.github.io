@@ -86,7 +86,7 @@ _Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso 
 
 # Projetos
 
-_No presente momento apenas desenvolvendo Jogos em cada bimestre para a matéria de "Oficina de Jogos" na Instituição IFRN Campus Ceará-mirim_.  
+* _Projeto English Club_
 
 * * *
 
