@@ -100,6 +100,7 @@ _Atualmente assistindo aulas em disciplinas voltadas para o desenvolvimento de J
 
 * _Remake da música Photograph: [Remake Photograph - Ed Sheeran](https://www.youtube.com/watch?v=gk6JF1bzlB8)_  
 * _Fotografias para a música Where have you been: [Célula coreográfica](https://www.youtube.com/watch?v=0XH5Oab4L-Y)_  
+* _O Rei Arthur e a Távola Redonda: [O Rei Arthur e a Távola Redonda](https://www.youtube.com/watch?v=RSX8255Pq-Y)_
 
 # Redes Sociais 
 
