@@ -52,7 +52,7 @@ _Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso 
 
 # [![](jogo4.png)](https://alessandrats.github.io/TeethDefense/)
 
-* _Descrição: O jogo Teeth Defense traz como objetivo o jogador ter que impedir a chegada de bactérias, cáries, balinhas de mascar à boca, e para isso ele terá que implementar "torres" nos dentes, as quais podem ser: creme dental, fio dental e escova de dente. Caso os inimigos cheguem à boca, ela irá ficando suja até que o jogador perderá a fase e ela será reiniciada. Esse jogo foi desenvolvido com o intuito de fazer com que as pessoas tenham um certo cuidado com a saúde bucal, isto é, com a finalidade de conscientização.    
+* _Descrição: O jogo Teeth Defense traz como objetivo o jogador ter que impedir a chegada de bactérias, cáries, balinhas de mascar à boca, e para isso ele terá que implementar "torres" nos dentes, as quais podem ser: creme dental, fio dental e escova de dente. Caso os inimigos cheguem à boca, ela irá ficando suja até que o jogador perderá a fase e ela será reiniciada. Esse jogo foi desenvolvido com o intuito de fazer com que as pessoas tenham um certo cuidado com a saúde bucal, isto é, com a finalidade de conscientização._    
 
 * * * 
 
