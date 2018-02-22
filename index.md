@@ -48,7 +48,7 @@ _Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso 
 
 # [![](jogo3.png)](https://alessandrats.github.io/CancunsTemple/)
 
-* _Descrição: Neste jogo, o personagem aventureiro George se vê perdido na floresta quando escuta um barulho ameaçador e entra em um templo, o qual pertence à um deus chamado Cancun. Para sair deste templo, ele terá que coletar amuletos para Cancun e mover-se entre inimigos que impedem a sua passagem, como por exemplo, mamacos, plantas carnívoras, faunos, entre outros. Com todos os amuletos coletados, George poderá sair da caverna._ 
+* _Descrição: Neste jogo, o personagem aventureiro George se vê perdido na floresta quando escuta um barulho ameaçador e entra em um templo, o qual pertence à um deus chamado Cancun. Para sair deste templo, ele terá que coletar amuletos para Cancun e mover-se entre inimigos que impedem a sua passagem, como por exemplo, macacos, plantas carnívoras, faunos, entre outros. Com todos os amuletos coletados, George poderá sair da caverna._ 
 
 # [![](jogo4.png)](https://alessandrats.github.io/TeethDefense/)
 
