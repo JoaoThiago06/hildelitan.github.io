@@ -40,11 +40,19 @@ _Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso 
 
 # [![](jogo1.png)](https://alessandrats.github.io/O%20Rei%20do%20Cangaco/)
 
+* _Descrição: Neste jogo, o personagem Lampião tem como objetivo passar de todas as fases para conseguir libertar Maria Bonita do cativeiro dos bandidos, os quais estão impedindo Lampião em seu percurso. Logo, o jogador deverá detê-los para cumprir o objetivo proposto._ 
+
 # [![](jogo2.png)](https://alessandrats.github.io/DiscoverySpace/)
+
+* _Descrição: Neste jogo, o astronauta precisa coletar partes para concertar uma nave quebrada, como por exemplo, ferramentas, e só assim conseguir destravar as fases seguintes que decorrem, para, ao final, conseguir voltar à Terra em sua nave._  
 
 # [![](jogo3.png)](https://alessandrats.github.io/CancunsTemple/)
 
+* _Descrição: Neste jogo, o personagem aventureiro George se vê perdido na floresta quando escuta um barulho ameaçador e entra em um templo, o qual pertence à um deus chamado Cancun. Para sair deste templo, ele terá que coletar amuletos para Cancun e mover-se entre inimigos que impedem a sua passagem, como por exemplo, mamacos, plantas carnívoras, faunos, entre outros. Com todos os amuletos coletados, George poderá sair da caverna._ 
+
 # [![](jogo4.png)](https://alessandrats.github.io/TeethDefense/)
+
+* _Descrição: O jogo Teeth Defense traz como objetivo o jogador ter que impedir a chegada de bactérias, cáries, balinhas de mascar à boca, e para isso ele terá que implementar "torres" nos dentes, as quais podem ser: creme dental, fio dental e escova de dente. Caso os inimigos cheguem à boca, ela irá ficando suja até que o jogador perderá a fase e ela será reiniciada. Esse jogo foi desenvolvido com o intuito de fazer com que as pessoas tenham um certo cuidado com a saúde bucal, isto é, com a finalidade de conscientização.    
 
 * * * 
 
