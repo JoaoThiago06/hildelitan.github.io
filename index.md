@@ -84,6 +84,11 @@ _Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso 
 
 * * *
 
+# Influence Map 
+
+# 
+
+* * *
 # Projetos
 
 * _Projeto English Club_
