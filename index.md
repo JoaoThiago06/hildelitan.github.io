@@ -101,7 +101,7 @@ _Meu nome é Hildelitan Pereira de Oliveira, tenho 18 anos e sou aluna do Curso 
 
 * _Projeto English Club_  
 * _CIA Musical Tiê_  
-* _TCC (em início de desenvolvimento): Desenvolver um jogo que auxilie crianças com TDAH na fase da aprendizagem escolar. 
+* _TCC (em início de desenvolvimento): Desenvolver um jogo que auxilie crianças com TDAH na fase da aprendizagem escolar._ 
 
 * * *
 
